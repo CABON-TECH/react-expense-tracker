@@ -46,7 +46,4 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2022 [Boniface Mbogho](https://github.com/CABON-TECH).<br />
-This project is [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) licensed.
-
-***
-__
+This project is [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) licensed._
