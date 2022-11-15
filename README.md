@@ -49,4 +49,4 @@ Copyright © 2022 [Boniface Mbogho](https://github.com/CABON-TECH).<br />
 This project is [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+__
